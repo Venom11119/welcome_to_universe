@@ -41,7 +41,7 @@ var messages = [
     "Amongst trillions and trillions of stars, over billions of years",
     "To be alive, and to get to spend this life with you",
     "It is so incredibly, unfathomably unlikely",
-    "I love you so much, more than words can say   ,          .     more than i can ever express",
+    ".            I love you so much, more than words can say   ,          .     more than i can ever express",
     "Remember this??? Look how precious your hand looks",
     "And look at your hands now... Why are they empty babe?",
 ];
